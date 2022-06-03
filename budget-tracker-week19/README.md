@@ -1,0 +1,1 @@
+This week's task was to update a budget tracker so that it is able to have changes made even while offline.
